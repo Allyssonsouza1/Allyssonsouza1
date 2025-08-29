@@ -2,6 +2,7 @@
 
 
 Meu passado: Otimizar processos através de dados e dashboards. 
+
 Meu presente: Construir algoritmos que podem prever o futuro.
 
 Engenheiro Mecânico mineiro residente em Curitiba, com Pós-Graduação em Data Science pela UFPR. Apaixonado por tecnologia, livros e games.
